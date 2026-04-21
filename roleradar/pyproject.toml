@@ -1,0 +1,9 @@
+[project]
+name = "roleradar"
+version = "0.3.0"
+description = "Job market intelligence platform for scoring and explaining job postings"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

@@ -55,7 +55,7 @@ Pipeline structure:
 Scraper → Feature Engineering → Opportunity Model → Batch Ranking → API → Dashboard
 ```
 
-See architecture diagram:
+See the architecture diagram:
 
 ```
 assets/architecture.png
